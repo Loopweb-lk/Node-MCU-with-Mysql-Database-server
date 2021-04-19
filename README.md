@@ -1,7 +1,7 @@
 # Node-MCU-with-Mysql-Database-server
 How to connect MySQL remote database from NodeMCU using HTTP Request
 
------------------------------------------------------ Documentation--------------------------------------------
+----------------------------------------------------- Documentation---------------------------------
 
 In this repository you have 2 file, nodeMCU code file for your nodeMCU and PHP file to store in your server, 
 for this code we doesn't need any remote MySql connection. 
