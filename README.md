@@ -7,8 +7,8 @@ In this repository you have 2 file, nodeMCU code file for your nodeMCU and PHP f
 for this code we doesn't need any remote MySql connection. 
 
 1.) upload php file to your server and create a database and table acotding to your project <br>
-2.) Update MySql code in php file to your username and passwords (Normally host will be localhost)
-3.) Then change MySql query as your need 
-4.) thats all 
+2.) Update MySql code in php file to your username and passwords (Normally host will be localhost) <br>
+3.) Then change MySql query as your need <br>
+4.) thats all <br>
 
 Contact us if you need any help : kavinduhandapangoda@gmail.com
